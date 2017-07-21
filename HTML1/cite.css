@@ -1,0 +1,572 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #282828;
+}
+#wrapper1{
+	background-color: #d0d0d0;
+	width: 1000px;
+	height: 1672px;
+	margin: 0 auto;
+}
+#wrapper2{
+	background-color: #ebebea;
+	width: 960px;
+	height: 1594px;
+	margin: 0 auto;
+}
+#top_nav{
+	width: 960px;
+	height: 10px;
+}
+#BG_Colour{
+	width: 960px;
+	height: 120px;
+	background-color: #fff;
+}
+
+#Logo{
+	width: 240px;
+	height: 50px;	 
+	float: left;
+	margin-top: 36px;
+	margin-left: 30px;
+}
+#search_Form{
+	width: 216px;
+	height: 28px;
+	float: right;
+	margin-right: 30px;
+	
+}
+#search_Form{
+	background-color:#ebebea; 
+	border-radius: 0px 0px 10px 10px;
+}
+.sea{
+	float: right;
+	background: url("img/sea.png");
+	width: 20px;
+	height: 20px;
+	margin-right: 7px;
+	margin-top: -20px;
+}
+.textbox1{
+	width: 170px;
+}
+.Top_navigation{
+	float: right;
+	width: 568px;
+	height: 9px;
+	margin-top: 45px;
+}
+.Top_navigation ul li:hover{
+	cursor: pointer;
+	color: #a30383;
+}
+
+.Top_navigation ul li{
+	list-style: none;
+	font: 12px Georgia;
+    display: inline;
+    color: #666666;
+    float: left;
+	margin-right: 23px;
+}
+.Top_navigation ul li a{
+	text-decoration: none;
+	color: #666666;
+}
+.Top_navigation ul li a:hover{
+	color:#a30383;
+}
+.clear{
+	clear:both;
+}
+#corner{
+	width: 960px;
+	height: 1154px;
+	
+}
+#header{
+	width: 960px;
+	height: 102px;
+	background-color: #ebebea;
+}
+
+#big_text p{
+	width: 713px;
+	height: 53px;
+	font: 22px Georgia;
+	color: #666666;
+    float: left;
+	margin-top: 23px;
+  	margin-left: 126px;
+}
+.clear{
+	clear:both;
+}
+#boder1{
+	width: 960px;
+	height: 458px;
+	margin-top: 26px;
+	background:url("img/Untitled-1.jpg");
+}
+#slid{
+	width: 450px;
+	height: 120px;
+	background-color: #0f0f0f;
+	float: right;
+	margin-top: 260px;
+}
+.caption h3{
+	font: 22px Georgia;
+	width: 135px;
+	height: 17px;
+	margin-top: 23px;
+	margin-left: 17px;
+	color:#c2c2c2;
+}
+.caption1{
+	width: 410px;
+	height: 34px;
+	margin-top: 28px;
+	margin-left: 17px;
+}
+.caption1 h4{
+	font: 13px Georgia;
+	width: 410px;
+	height: 34px;
+	margin-top: 28px;
+	margin-left: 0px;
+	color:#bfbfbf;
+}
+#central{
+	background-color: #fff;
+	width: 960px;
+	height: 250px;
+	display:block;
+}
+.service1{
+	width: 320px;
+	height: 250px;
+	float:left;
+}
+.icon1{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 46px;
+	margin-left: 30px;
+	background-color:#353535;
+
+}
+.text1{
+	float: right;
+	width: 174px;
+	height: 15px;
+	margin-top: 47px;
+	margin-right: 37px;
+}
+.text1 h3{
+  	font: 20px Georgia;
+ 	width: 174px;
+  	height: 15px;
+ 	color: #894aa3;
+ }
+.text2{
+	float: right;
+	width: 201px;
+	height: 114px;
+	margin-top: 27px;
+	margin-right:11px;
+}
+.text2 h3{
+	font: 13px Georgia;
+	float: right;
+	width: 201px;
+	height: 114px;
+}
+.service2{
+	float: left;
+	width: 320px;
+	height: 250px;
+	
+}
+.icon2{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 46px;
+	margin-left: 30px;
+	background-color:#353535;
+}
+.text3{
+	float: right;
+	width: 174px;
+	height: 15px;
+	margin-top: 47px;
+	margin-right: 37px;
+}
+.text3 h3{
+	font: 20px Georgia;
+	width: 174px;
+	height: 15px;
+	color: #894aa3;
+}
+.text4{
+	float: right;
+	width: 201px;
+	height: 114px;
+	margin-top: 27px;
+	margin-right:11px;
+}
+.text4 h3{
+	font: 13px Georgia;
+	float: right;
+	width: 201px;
+	height: 114px;
+	
+}
+.icon3{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 46px;
+	margin-left: 30px;
+	background-color:#353535;
+
+}
+.text5{
+	float: right;
+	width: 174px;
+	height: 15px;
+	margin-top: 47px;
+	margin-right: 37px;
+}
+.text5 p{
+	font: 20px Georgia;
+	width: 174px;
+	height: 15px;
+	color: #894aa3;
+}
+.text6{
+	float: right;
+	width: 201px;
+	height: 114px;
+	margin-top: 27px;
+	margin-right:11px;
+}
+.text6 p{
+	font: 13px Georgia;
+	float: right;
+	width: 201px;
+	height: 114px;
+	
+}
+#content{
+	background-color: #ebebea;
+	width: 960px;
+	height: 422px;
+	
+}
+#content1{
+	float: left;
+	width: 280px;
+	height:320px;
+	background-color: #fff;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+.picture1{
+	background-color:#353535;
+	width: 260px;
+	height: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+.txt1{
+	width: 139px;
+	height: 13px;
+	margin-top: 18px;
+	margin-left: 71px;
+	font: 16px Georgia;
+	color: #894aa3;
+}
+.txt2{
+	width: 247px;
+	height: 51px;
+	margin-top: 25px;
+	margin-left: 17px;
+	font: 13px Georgia;
+	color: #666666;
+	text-align: center;
+}
+#content2{
+	float: left;
+	width: 280px;
+	height:320px;
+	background-color: #fff;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.picture2{
+	background-color:#353535;
+	width: 260px;
+	height: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+.txt3{
+	width: 139px;
+	height: 13px;
+	margin-top: 18px;
+	margin-left: 71px;
+	font: 16px Georgia;
+	color: #894aa3;
+}
+.txt4{
+	width: 247px;
+	height: 51px;
+	margin-top: 25px;
+	margin-left: 17px;
+	font: 13px Georgia;
+	color: #666666;
+	text-align: center;
+}
+#content3{
+	float: left;
+	width: 280px;
+	height:320px;
+	background-color: #fff;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.picture3{
+	background-color:#353535;
+	width: 260px;
+	height: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+.txt5{
+	width: 139px;
+	height: 13px;
+	margin-top: 18px;
+	margin-left: 71px;
+	font: 16px Georgia;
+	color: #894aa3;
+}
+.txt6{
+	width: 247px;
+	height: 51px;
+	margin-top: 25px;
+	margin-left: 17px;
+	font: 13px Georgia;
+	color: #666666;
+	text-align: center;
+}
+#boder{
+	background-color: #fff;
+	height: 250px;
+}
+.block1{
+	float: left;
+	width: 202px;
+	height: 151px;
+	margin-left: 30px;
+	margin-top: 42px;
+
+}
+.example1 p{
+	font: 13px Georgia;
+	color: #666666;
+}
+.fax1 p{
+	margin-top: 31px;
+	font: 13px Georgia;
+	color: #666666;
+}
+.block2{
+	float: left;
+	margin-top: 42px;
+	margin-left: 31px;
+}
+.example2 p{
+	font: 13px Georgia;
+	color: #666666;
+}
+.fax2 h1{
+	margin-top: 30px;
+	font: 12px Georgia;
+	color: #666666;
+}
+.fax2 h2{
+	margin-top: 10px;
+	font: 12px Georgia;
+	color: #666666;
+}
+.fax2 h3{
+	margin-top: 10px;
+	font: 12px Georgia;
+	color: #666666;
+}
+.fax2 h4{
+	margin-top: 10px;
+	font: 12px Georgia;
+	color: #666666;
+}
+.block3{
+	float: left;
+	width: 200px;
+	height: 155px;
+	margin-left: 146px;
+	margin-top: 42px;
+}
+.example3 p{
+	font: 13px Georgia;
+	color: #666666;
+}
+.fax3 h1{
+	margin-top: 31px;
+	font: 13px Georgia;
+	color: #666666;
+}
+.fax3 h2{
+	
+	font: 13px Georgia;
+	color: #666666;
+}
+.fax3 p{
+	
+	font: 13px Georgia;
+	color: #666666;
+}
+.block4{
+	float: left;
+	width: 210px;
+	height: 157px;
+	margin-top: 42px;
+	margin-left: 29px;
+}
+.example4{
+	font:13px Georgia;
+	color: #666666;
+	
+}
+.name{
+	background-color: #ebebea;
+	border-radius: 10px;
+	margin-top: 31px;
+	width: 209px;
+	height: 30px;
+}
+.textbox1{
+	border: none;
+	background-color: #ebebea;
+	font:14px Georgia;
+	height:20px;
+	margin-top:5px;
+	margin-left: 20px;
+}
+.name1{
+	background-color: #ebebea;
+	border-radius: 10px;
+	margin-top: 10px;
+	width: 209px;
+	height: 30px;
+}
+.textbox2{
+	border: none;
+	background-color: #ebebea;
+	font:14px Georgia;
+	height:20px;
+	margin-top:5px;
+	margin-left: 20px;
+}
+.name2{
+	background-color: #ebebea;
+	border-radius: 10px;
+	margin-top: 10px;
+	width: 80px;
+	height: 30px;
+}
+.SUBMIT{
+	float: left;
+	color:#874ca0;
+	font:12px Georgia;
+  	margin-top: 8px;
+  	margin-left: 12;
+
+}
+.SUBMIT:hover{
+	cursor: pointer;
+	color: red;
+}
+.block5{
+	float: right;
+	width: 70px;
+	height: 10px;
+	margin-right: 260px;
+	font: 12px Georgia;
+	color: #874ca0;
+}
+#footer{
+	background-color: #444444;
+	height: 60px;	
+}
+.word1{
+	float: left;
+	width: 325px;
+	height: 14px;
+	margin-top: 25px;
+	margin-left: 30px;
+	font: 12px Georgia;
+	color: #d0d0d0;
+}
+.word2{
+	float: left;
+	width: 154px;
+	height: 14px;
+	margin-top: 25px;
+	margin-left: 425px;
+	font: 12px Georgia;
+	color: #d0d0d0;
+} 
+
+        /* jssor slider arrow navigator skin 05 css */
+        /*
+        .jssora05l                  (normal)
+        .jssora05r                  (normal)
+        .jssora05l:hover            (normal mouseover)
+        .jssora05r:hover            (normal mouseover)
+        .jssora05l.jssora05ldn      (mousedown)
+        .jssora05r.jssora05rdn      (mousedown)
+        .jssora05l.jssora05lds      (disabled)
+        .jssora05r.jssora05rds      (disabled)
+        */
+        .jssora05l, .jssora05r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 40px;
+            height: 40px;
+            cursor: pointer;
+            background: url('img/a17.png') no-repeat;
+            overflow: hidden;
+        }
+        .jssora05l { background-position: -10px -40px; }
+        .jssora05r { background-position: -70px -40px; }
+        .jssora05l:hover { background-position: -130px -40px; }
+        .jssora05r:hover { background-position: -190px -40px; }
+        .jssora05l.jssora05ldn { background-position: -250px -40px; }
+        .jssora05r.jssora05rdn { background-position: -310px -40px; }
+        .jssora05l.jssora05lds { background-position: -10px -40px; opacity: .3; pointer-events: none; }
+        .jssora05r.jssora05rds { background-position: -70px -40px; opacity: .3; pointer-events: none; }
+        /* jssor slider thumbnail navigator skin 01 css *//*.jssort01 .p            (normal).jssort01 .p:hover      (normal mouseover).jssort01 .p.pav        (active).jssort01 .p.pdn        (mousedown)*/.jssort01 .p {    position: absolute;    top: 0;    left: 0;    width: 72px;    height: 72px;}.jssort01 .t {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort01 .w {    position: absolute;    top: 0px;    left: 0px;    width: 100%;    height: 100%;}.jssort01 .c {    position: absolute;    top: 0px;    left: 0px;    width: 68px;    height: 68px;    border: #000 2px solid;    box-sizing: content-box;    background: url('img/t01.png') -800px -800px no-repeat;    _background: none;}.jssort01 .pav .c {    top: 2px;    _top: 0px;    left: 2px;    _left: 0px;    width: 68px;    height: 68px;    border: #000 0px solid;    _border: #fff 2px solid;    background-position: 50% 50%;}.jssort01 .p:hover .c {    top: 0px;    left: 0px;    width: 70px;    height: 70px;    border: #fff 1px solid;    background-position: 50% 50%;}.jssort01 .p.pdn .c {    background-position: 50% 50%;    width: 68px;    height: 68px;    border: #000 2px solid;}* html .jssort01 .c, * html .jssort01 .pdn .c, * html .jssort01 .pav .c {    /* ie quirks mode adjust */    width /**/: 72px;    height /**/: 72px;}
